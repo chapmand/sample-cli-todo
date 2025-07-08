@@ -1,2 +1,2 @@
 # sample-cli-todo
-Sample To-do terminal app
+# Build a CLI To-Do list saved to JSON
